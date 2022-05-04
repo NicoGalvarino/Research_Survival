@@ -1,4 +1,4 @@
-# Research_Survival
+# Research Survival
 
 This is a brief series of guides that can help in the process of doing scientific research. I make it public with the aim of possibly helping fellow aspiring scientists find their way.
 

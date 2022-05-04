@@ -10,7 +10,7 @@ I took some of the files here from the Professional Development in Astronomy und
 
 --------------------
 
-Esta es una breve serie de guías que pueden asistir con el proceso de hacer investigación científica. Lo hago público con la meta de posiblemente ayudarle a compañerxs científicxs aspirantes encontrar su camino.
+Esta es una breve serie de guías que pueden asistir con el proceso de hacer investigación científica. Lo hago público con el fin de posiblemente ayudarle a compañerxs científicxs aspirantes en su quehacer.
 
 Hay guías generales sobre cómo hacer ciencia, desde cómo leer y escribir artículos científicos en Inglés, hasta algunas guías más específicas a la Astronomía.
 

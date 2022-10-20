@@ -6,6 +6,8 @@ There are general guides about several aspects of doing science, from reading an
 
 I am not the author of any of these files. This is simply a compilement of useful things I have found over time.
 
+You are welcome to contribute with any resources you think might be useful.
+
 I took some of the files here from the Professional Development in Astronomy undergraduate course at Universidad de Chile, taught by Prof. James Jenkins and Paula Cáceres Burgos (teaching assistant). The rest I have found serendipitously.
 
 --------------------
@@ -15,6 +17,8 @@ Esta es una breve serie de guías que pueden asistir con el proceso de hacer inv
 Hay guías generales sobre cómo hacer ciencia, desde cómo leer y escribir artículos científicos en Inglés, hasta algunas guías más específicas a la Astronomía.
 
 Yo no soy el autor de ninguno de estos archivos. Este es simplemente un compilado de cosas útiles que he encontrado a través del tiempo.
+
+Es bienvenide a contribuir con cualquier recursos que le parezcan relevantes.
 
 Tomé algunos de estos archivos del curso de pregrado Desarrollo Profesional en Astronomía en la Universidad de Chile, dictado por Prof. James Jenkins y Paula Cáceres Burgos (auxiliar). El resto lo he encontrado por casualidad.
 

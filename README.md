@@ -26,3 +26,4 @@ Tomé algunos de estos archivos del curso de pregrado Desarrollo Profesional en 
 
 - How to write a first-class paper [link](https://www.nature.com/articles/d41586-018-02404-4).
 - How to create a better research poster in less time [link](https://www.youtube.com/watch?v=SYk29tnxASs).
+- How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)

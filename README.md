@@ -22,8 +22,16 @@ Es bienvenide a contribuir con cualquier recursos que le parezcan relevantes.
 
 Tomé algunos de estos archivos del curso de pregrado Desarrollo Profesional en Astronomía en la Universidad de Chile, dictado por Prof. James Jenkins y Paula Cáceres Burgos (auxiliar). El resto lo he encontrado por casualidad.
 
-## Extra resources
+--------------------
+
+## Extra Resources
 
 - How to write a first-class paper [link](https://www.nature.com/articles/d41586-018-02404-4).
 - How to create a better research poster in less time [link](https://www.youtube.com/watch?v=SYk29tnxASs).
 - How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
+
+--------------------
+
+## Insightful Readings
+
+- Rao, C. R. (1997). Statistics and Truth: Putting Chance to Work. World Scientific. [doi](https://doi.org/10.1142/3454)

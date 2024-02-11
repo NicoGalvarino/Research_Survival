@@ -35,3 +35,22 @@ Tomé algunos de estos archivos del curso de pregrado Desarrollo Profesional en 
 ## Insightful Readings
 
 - Rao, C. R. (1997). Statistics and Truth: Putting Chance to Work. World Scientific. [doi](https://doi.org/10.1142/3454)
+
+--------------------
+
+## Useful and specialized AI tools for research
+
+- Mind-maps: [heuristica](https://www.heuristi.ca/)
+- For summarizing papers and readings:
+    - [openread](https://www.openread.academy/)
+    - [explainpaper](https://www.explainpaper.com/)
+    - [paperbrain](https://www.paperbrain.study/)
+    - [scispace](https://typeset.io/)
+    - [scisummary](https://scisummary.com/)
+- Quick graphs from data: [einblick](https://www.einblick.ai/)
+- Smart internet searches: [tavily](https://tavily.com/)
+- Academic writing: 
+    - [paperpal](https://paperpal.com/)
+    - [writefull](https://www.writefull.com/)
+- Exploring literature: [connectedpapers](https://www.connectedpapers.com/)
+- Coding helper: [blackbox](https://www.blackbox.ai/)

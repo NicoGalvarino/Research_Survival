@@ -47,10 +47,15 @@ Tomé algunos de estos archivos del curso de pregrado Desarrollo Profesional en 
     - [paperbrain](https://www.paperbrain.study/)
     - [scispace](https://typeset.io/)
     - [scisummary](https://scisummary.com/)
-- Quick graphs from data: [einblick](https://www.einblick.ai/)
+    - [scholarcy](https://www.scholarcy.com/)
+    - [semantic scholar](https://www.semanticscholar.org/)
+- Quick graphs from data:
+    - [einblick](https://www.einblick.ai/)
+    - [julius](https://julius.ai/)
 - Smart internet searches: [tavily](https://tavily.com/)
 - Academic writing: 
     - [paperpal](https://paperpal.com/)
     - [writefull](https://www.writefull.com/)
 - Exploring literature: [connectedpapers](https://www.connectedpapers.com/)
 - Coding helper: [blackbox](https://www.blackbox.ai/)
+- Alternative to chatgpt: [claude](https://claude.ai/login)

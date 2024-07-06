@@ -41,7 +41,9 @@
     - [writefull](https://www.writefull.com/)
 - Exploring literature: [connectedpapers](https://www.connectedpapers.com/)
 - Coding helper: [blackbox](https://www.blackbox.ai/)
-- Alternative to chatgpt: [claude](https://claude.ai/login)
+- Alternatives to chatgpt:
+    - [claude](https://claude.ai/login)
+    - [moshi](https://moshi.chat/)
 
 --------------------
 

@@ -39,7 +39,9 @@
 - Academic writing: 
     - [paperpal](https://paperpal.com/)
     - [writefull](https://www.writefull.com/)
-- Exploring literature: [connectedpapers](https://www.connectedpapers.com/)
+- Exploring literature:
+    - [connectedpapers](https://www.connectedpapers.com/)
+    - [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
 - Coding helper: [blackbox](https://www.blackbox.ai/)
 - Alternatives to chatgpt:
     - [claude](https://claude.ai/login)

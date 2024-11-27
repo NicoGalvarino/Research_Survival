@@ -36,6 +36,7 @@
 
 ## Useful and specialized AI tools for research
 
+- Astronomy-specific paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
 - Mind-maps: [heuristica](https://www.heuristi.ca/)
 - For summarizing papers and readings:
     - [openread](https://www.openread.academy/)

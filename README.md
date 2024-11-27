@@ -1,9 +1,22 @@
 # Research Survival
 
-## Extra Resources
+## How to write
 
 - How to write a first-class paper [link](https://www.nature.com/articles/d41586-018-02404-4).
 - How to create a better research poster in less time [link](https://www.youtube.com/watch?v=SYk29tnxASs).
+
+--------------------
+
+## How to present
+
+- How to prepare an academic talk [link](https://people.eecs.berkeley.edu/~jrs/speaking.html)
+- How to give better conference talks [link](https://www.planetary.org/articles/04040850-better-conference-talks)
+- The 3 magic ingredients of amazing presentations [link](https://www.youtube.com/watch?v=yoD8RMq2OkU)
+
+--------------------
+
+## Extra Resources
+
 - How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
 
 --------------------
@@ -46,6 +59,7 @@
 - Alternatives to chatgpt:
     - [claude](https://claude.ai/login)
     - [moshi](https://moshi.chat/)
+    - [perplexity](https://www.perplexity.ai/)
 
 --------------------
 

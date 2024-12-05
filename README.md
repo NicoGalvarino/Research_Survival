@@ -34,6 +34,18 @@
 
 --------------------
 
+## All Things [VSCode](https://code.visualstudio.com/)
+
+- Useful extensions:
+    - [GitLens](https://gitlens.amod.io/): visualizing change and commit history
+    - [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): visualize indentation with colors
+    - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced): immediate visualization of markdown files
+    - [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv): navigating csv files with color-coding
+- Not _strictly_ useful extensions:
+    - [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets): small companions
+
+--------------------
+
 ## Useful and specialized AI tools for research
 
 - Astronomy-specific paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)

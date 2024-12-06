@@ -46,6 +46,11 @@
 
 --------------------
 
+## Accessibility in Science
+- [OpenDyslexic](https://opendyslexic.org/): dyslexic-friendly font
+
+--------------------
+
 ## Useful and specialized AI tools for research
 
 - Astronomy-specific paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)

@@ -18,6 +18,7 @@
 ## Extra Resources
 
 - How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
+- How to not create bad plots: [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends/tree/main?tab=readme-ov-file#friends-dont-let-friends-use-boxpot-for-binomial-data)
 
 --------------------
 

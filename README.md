@@ -2,8 +2,9 @@
 
 ## How to write
 
-- How to write a first-class paper [link](https://www.nature.com/articles/d41586-018-02404-4).
-- How to create a better research poster in less time [link](https://www.youtube.com/watch?v=SYk29tnxASs).
+- How to write a first-class paper: [link](https://www.nature.com/articles/d41586-018-02404-4)
+- How to create a better research poster in less time: [link](https://www.youtube.com/watch?v=SYk29tnxASs)
+- How to write a conference proceedings paper: [link](https://www.cwauthors.com/article/writing-and-submitting-a-conference-proceedings-paper)
 
 --------------------
 

@@ -20,6 +20,8 @@
 
 - How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
 - How to not create bad plots: [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends/tree/main?tab=readme-ov-file#friends-dont-let-friends-use-boxpot-for-binomial-data)
+- How to create a website: [Moravec 2020](https://ui.adsabs.harvard.edu/abs/2020BAAS...52.0211M/abstract)
+- How to set up your first machine learning project for astronomy: [Buchner & Fotopoulou 2025](https://arxiv.org/abs/2502.08222)
 
 --------------------
 

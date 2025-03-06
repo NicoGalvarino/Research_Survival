@@ -16,6 +16,12 @@
 
 --------------------
 
+## Time Management
+
+- AI-powered planner: [morgen](https://www.morgen.so/)
+
+--------------------
+
 ## Extra Resources
 
 - How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)

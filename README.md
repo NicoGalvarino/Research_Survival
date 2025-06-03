@@ -7,43 +7,23 @@
 - How to write a conference proceedings paper: [link](https://www.cwauthors.com/article/writing-and-submitting-a-conference-proceedings-paper)
 - How to write competitive proposals and job applications: [link](https://arxiv.org/abs/2504.01645)
 
---------------------
+### AI Tools for Academic Writing:
+- [paperpal](https://paperpal.com/)
+- [writefull](https://www.writefull.com/)
+
 
 ## How to present
 
-- How to prepare an academic talk [link](https://people.eecs.berkeley.edu/~jrs/speaking.html)
-- How to give better conference talks [link](https://www.planetary.org/articles/04040850-better-conference-talks)
-- The 3 magic ingredients of amazing presentations [link](https://www.youtube.com/watch?v=yoD8RMq2OkU)
+- [Preparing and giving an academic talk](https://people.eecs.berkeley.edu/~jrs/speaking.html)
+- [Better conference talks](https://www.planetary.org/articles/04040850-better-conference-talks)
+- The 3 magic ingredients of amazing presentations: [video](https://www.youtube.com/watch?v=yoD8RMq2OkU)
 
---------------------
-
-## Time Management
-
-- AI-powered planner: [morgen](https://www.morgen.so/)
-
---------------------
-
-## Extra Resources
-
-- How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
-- How to not create bad plots: [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends/tree/main?tab=readme-ov-file#friends-dont-let-friends-use-boxpot-for-binomial-data)
-- How to create a website: [Moravec 2020](https://ui.adsabs.harvard.edu/abs/2020BAAS...52.0211M/abstract)
-- How to set up your first machine learning project for astronomy: [Buchner & Fotopoulou 2025](https://arxiv.org/abs/2502.08222)
-
---------------------
 
 ## Citation Tools
 
 - Citation management: [zotero](https://www.zotero.org/)
 - Citing software easily: [software citation station](https://www.tomwagg.com/software-citation-station/)
 
---------------------
-
-## Insightful Readings
-
-- Rao, C. R. (1997). Statistics and Truth: Putting Chance to Work. World Scientific. [doi](https://doi.org/10.1142/3454)
-
---------------------
 
 ## All Things [VSCode](https://code.visualstudio.com/)
 
@@ -55,40 +35,50 @@
 - Not _strictly_ useful extensions:
     - [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets): small companions
 
---------------------
 
-## Accessibility in Science
+## Accessibility
 - [OpenDyslexic](https://opendyslexic.org/): dyslexic-friendly font
+- [Wondercraft’s AI](https://www.wondercraft.ai/tools/research-paper-to-podcast-generator): turning papers into podcasts
 
---------------------
 
-## Useful and specialized AI tools for research
+## Specialized AI tools for Research
 
-- Astronomy-specific paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
-- Mind-maps: [heuristica](https://www.heuristi.ca/)
-- For summarizing papers and readings:
-    - [openread](https://www.openread.academy/)
-    - [explainpaper](https://www.explainpaper.com/)
-    - [paperbrain](https://www.paperbrain.study/)
-    - [scispace](https://typeset.io/)
-    - [scisummary](https://scisummary.com/)
-    - [scholarcy](https://www.scholarcy.com/)
-    - [semantic scholar](https://www.semanticscholar.org/)
-- Quick graphs from data:
-    - [einblick](https://www.einblick.ai/)
-    - [julius](https://julius.ai/)
+### Literature Review:
+- _Astronomy-specific_ paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
+- AI-powered literature searches: [semantic scholar](https://www.semanticscholar.org/)
 - Smart internet searches: [tavily](https://tavily.com/)
-- Academic writing: 
-    - [paperpal](https://paperpal.com/)
-    - [writefull](https://www.writefull.com/)
-- Exploring literature:
-    - [connectedpapers](https://www.connectedpapers.com/)
-    - [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
-- Coding helper: [blackbox](https://www.blackbox.ai/)
-- Alternatives to chatgpt:
-    - [claude](https://claude.ai/login)
-    - [moshi](https://moshi.chat/)
-    - [perplexity](https://www.perplexity.ai/)
+- Finding similar papers: [connectedpapers](https://www.connectedpapers.com/)
+
+### Visualization:
+- Mind-maps: [heuristica](https://www.heuristi.ca/)
+- Quick graphs from data: [julius](https://julius.ai/)
+
+### Summarizing and reading papers:
+- [openread](https://www.openread.academy/)
+- [explainpaper](https://www.explainpaper.com/)
+- [scispace](https://typeset.io/)
+- [scholarcy](https://www.scholarcy.com/)
+
+### Coding helpers:
+- [blackbox](https://www.blackbox.ai/)
+
+### Alternatives to chatgpt:
+- [claude](https://claude.ai/)
+- [moshi](https://moshi.chat/)
+- [perplexity](https://www.perplexity.ai/)
+
+
+## Insightful Readings
+
+- Rao, C. R. (1997). Statistics and Truth: Putting Chance to Work. World Scientific. [doi](https://doi.org/10.1142/3454)
+
+
+## Miscelaneous
+
+- How to be miserable (ironic): [link](https://www.youtube.com/watch?v=LO1mTELoj6o)
+- How to not create bad plots: [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends/tree/main?tab=readme-ov-file#friends-dont-let-friends-use-boxpot-for-binomial-data)
+- How to create a website: [Moravec 2020](https://ui.adsabs.harvard.edu/abs/2020BAAS...52.0211M/abstract)
+- How to set up your first machine learning project for astronomy: [Buchner & Fotopoulou 2025](https://arxiv.org/abs/2502.08222)
 
 --------------------
 

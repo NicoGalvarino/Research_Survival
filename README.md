@@ -18,6 +18,9 @@
 - [Better conference talks](https://www.planetary.org/articles/04040850-better-conference-talks)
 - The 3 magic ingredients of amazing presentations: [video](https://www.youtube.com/watch?v=yoD8RMq2OkU)
 
+## How to document code
+
+- [Project Documentation, The Hitchhiker's Giude to Python](https://docs.python-guide.org/writing/documentation/)
 
 ## Citation Tools
 

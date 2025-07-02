@@ -3,7 +3,6 @@
 ## How to write
 
 - How to write a first-class paper: [link](https://www.nature.com/articles/d41586-018-02404-4)
-- How to create a better research poster in less time: [link](https://www.youtube.com/watch?v=SYk29tnxASs)
 - How to write a conference proceedings paper: [link](https://www.cwauthors.com/article/writing-and-submitting-a-conference-proceedings-paper)
 - How to write competitive proposals and job applications: [link](https://arxiv.org/abs/2504.01645)
 
@@ -21,6 +20,11 @@
 ## How to document code
 
 - [Project Documentation, The Hitchhiker's Giude to Python](https://docs.python-guide.org/writing/documentation/)
+
+## How to create a Poster
+- How to create a better research poster in less time: [link](https://www.youtube.com/watch?v=SYk29tnxASs)
+- Latex template: [gemini](https://github.com/anishathalye/gemini)
+- Color themes: [ultimate-beamer-theme-list](https://github.com/martinbjeldbak/ultimate-beamer-theme-list)
 
 ## Citation Tools
 

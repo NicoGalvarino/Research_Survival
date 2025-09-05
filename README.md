@@ -50,6 +50,9 @@
 
 ## Specialized AI tools for Research
 
+### Research-Specific Chatbots:
+- [science OS](https://app.scienceos.ai/)
+
 ### Literature Review:
 - _Astronomy-specific_ paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)
 - AI-powered literature searches: [semantic scholar](https://www.semanticscholar.org/)

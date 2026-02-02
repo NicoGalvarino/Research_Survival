@@ -53,6 +53,8 @@
 ### Research-Specific Chatbots:
 - [science OS](https://app.scienceos.ai/)
 - [NotebookLM](https://notebooklm.google/)
+- [Asta](https://asta.allen.ai/)
+- [Consensus](https://consensus.app/)
 
 ### Literature Review:
 - _Astronomy-specific_ paper and literature search engine: [pathfinder](https://huggingface.co/spaces/kiyer/pathfinder)

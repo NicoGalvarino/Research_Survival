@@ -80,6 +80,9 @@
 - [moshi](https://moshi.chat/)
 - [perplexity](https://www.perplexity.ai/)
 
+### Reference Assistants:
+- [cerca](https://github.com/lidianycs/cerca)
+
 
 ## Insightful Readings
 
